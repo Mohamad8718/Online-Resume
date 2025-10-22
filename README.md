@@ -1,4 +1,4 @@
-<h1>Online-Resume</h1>
+<h1>Online - Resume</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
